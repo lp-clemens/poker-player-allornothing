@@ -1,9 +1,9 @@
 
 class Player:
-    VERSION = "Default Python folding player"
+    VERSION = "v0.1"
 
     def betRequest(self, game_state):
-        return 0
+        return 100
 
     def showdown(self, game_state):
         pass
